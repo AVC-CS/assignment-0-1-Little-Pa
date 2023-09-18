@@ -6,7 +6,8 @@ def main():
     ##############################
 
 
-if __name__ == '__main__':
-    main()
-    
-print ('helloe world')
+    if  __name__ == '__main__':
+        main()
+
+print ('hello world')
+#lab 3 please
